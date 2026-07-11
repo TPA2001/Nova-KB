@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <LayoutContainer showCollapse resizable class="application-manage">
     <template #left>
       <h4 class="p-12-16 pb-0 mt-12">{{ $t('views.application.title') }}</h4>
@@ -876,7 +876,7 @@ const importApplication = (file: any) => {
           cancelButtonText: t('common.confirm'),
           confirmButtonText: t('common.professional'),
         }).then(() => {
-          window.open('https://github.com/your-username/nova-kb', '_blank')
+          window.open('https://github.com/TPA2001/Nova-KB', '_blank')
         })
       }
     })
@@ -962,3 +962,4 @@ onMounted(() => {
 </script>
 
 <style lang="scss" scoped></style>
+

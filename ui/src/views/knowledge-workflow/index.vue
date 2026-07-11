@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <div class="knowledge-workflow" v-loading="loading">
     <div class="header border-b flex-between p-12-24 white-bg">
       <div class="flex align-center">
@@ -436,7 +436,7 @@ const importKnowledgeWorkflow = (file: any) => {
               cancelButtonText: t('common.confirm'),
               confirmButtonText: t('common.professional'),
             }).then(() => {
-              window.open('https://github.com/your-username/nova-kb', '_blank')
+              window.open('https://github.com/TPA2001/Nova-KB', '_blank')
             })
           }
         })
@@ -770,3 +770,4 @@ onBeforeUnmount(() => {
   }
 }
 </style>
+

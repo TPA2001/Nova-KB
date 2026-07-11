@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <ContentContainer>
     <template #header>
       <slot name="header"></slot>
@@ -1196,7 +1196,7 @@ function importTool(file: any) {
           cancelButtonText: t('common.confirm'),
           confirmButtonText: t('common.professional'),
         }).then(() => {
-          window.open('https://github.com/your-username/nova-kb', '_blank')
+          window.open('https://github.com/TPA2001/Nova-KB', '_blank')
         })
       }
     })
@@ -1306,3 +1306,4 @@ onMounted(() => {
 </script>
 
 <style lang="scss" scoped></style>
+

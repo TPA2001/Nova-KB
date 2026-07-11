@@ -1,4 +1,4 @@
-export default {
+﻿export default {
   github: '項目地址',
   wiki: '使用者手冊',
   forum: '論壇求助',
@@ -39,6 +39,7 @@ export default {
     daysValid: '天有效',
   },
   copyright: '版權所有 © 2026 Nova-KB',
-  userManualUrl: 'https://github.com/your-username/nova-kb',
-  forumUrl: 'https://github.com/your-username/nova-kb/discussions',
+  userManualUrl: 'https://github.com/TPA2001/Nova-KB',
+  forumUrl: 'https://github.com/TPA2001/Nova-KB/discussions',
 }
+

@@ -1,8 +1,8 @@
-<template>
+﻿<template>
   <div class="flex align-center top-about">
     <el-button
       round
-      @click="toUrl('https://github.com/your-username/nova-kb')"
+      @click="toUrl('https://github.com/TPA2001/Nova-KB')"
       class="pricing-button mr-8"
       v-hasPermission="EditionConst.IS_CE"
     >
@@ -117,3 +117,4 @@ function toUrl(url: string) {
   color: #ffffff;
 }
 </style>
+

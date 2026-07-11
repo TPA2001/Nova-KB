@@ -1,4 +1,4 @@
-export default {
+﻿export default {
   github: 'Project Address',
   wiki: 'User Manual',
   forum: 'Forum For Help',
@@ -39,6 +39,7 @@ export default {
     daysValid: 'Days valid',
   },
   copyright: 'Copyright © 2026 Nova-KB, All rights reserved.',
-  userManualUrl: 'https://github.com/your-username/nova-kb',
-  forumUrl: 'https://github.com/your-username/nova-kb/discussions',
+  userManualUrl: 'https://github.com/TPA2001/Nova-KB',
+  forumUrl: 'https://github.com/TPA2001/Nova-KB/discussions',
 }
+
